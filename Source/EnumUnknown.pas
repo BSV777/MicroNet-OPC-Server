@@ -130,4 +130,3 @@ initialization
                           ciMultiInstance,
                           tmApartment);
 end.
-

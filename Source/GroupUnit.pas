@@ -1139,4 +1139,3 @@ initialization
   TTypedComObjectFactory.Create(ComServer, TOPCGroup, Class_OPCGroup,
     ciMultiInstance, tmApartment);
 end.
-
